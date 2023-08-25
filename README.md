@@ -12,6 +12,12 @@ After conducting experiments, I have identified the following configurations tha
 
 4. Apply fast forward to each emulator window with Shift+Tab before pressing the enter key to initiate the hunting process.
 
+5. Due to timing, make your character name 3 long and your rivels 4 long; it might work the other way too.
+
+6. This things settings need to be pretty exact for the timings I have found.
+
+![screenshot](Game-Options.png)
+
 Dropping a copy of the mGBA emulator files in the same directory as the shiny-hunter-master is how I do it!
 
 ![screenshot](shiny-hunter-master.png)
